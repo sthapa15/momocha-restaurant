@@ -58,24 +58,24 @@ const entrees = [
 
 const awards = [
   {
-    imgUrl: images.award02,
-    title: "Bib Gourmond",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    imgUrl: images.award01,
+    title: "Michelin Star",
+    subtitle: "Recognized as one of the very best in D.C.",
   },
   {
-    imgUrl: images.award01,
+    imgUrl: images.award02,
     title: "Rising Star",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    subtitle: "Awarded for creative, successful, and well-executed restaurant concept",
   },
   {
     imgUrl: images.award05,
     title: "AA Hospitality",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    subtitle: "Recognized as a top restaurant for warm staff and chefs",
   },
   {
     imgUrl: images.award03,
     title: "Outstanding Chef",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    subtitle: "Awarded to the best chefs of the region",
   },
 ];
 
