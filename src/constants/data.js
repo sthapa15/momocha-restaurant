@@ -51,7 +51,7 @@ const entrees = [
   },
   {
     title: "Khasi Jhol",
-    price: "25",
+    price: "$25",
     tags: "Goat curry | Rice | Spicy",
   },
 ];
